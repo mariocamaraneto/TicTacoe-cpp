@@ -1,5 +1,10 @@
 TicTacoe-cpp
 ============
+
+
+Projetinho para jogo da velha para aperfeçoamento da linguagem C++ e alguns novos conceitos de ED.
+
+
 /*
 * ----------------------------------------------------------------------------
 * "A LICENÇA BEER-WARE ou A LICENÇA DA CERVEJA" (Revisão 43 em Portugués Brasil):
@@ -8,5 +13,3 @@ TicTacoe-cpp
 * valor, você poderá me pagar uma cerveja em retribuição (ou mais de uma), Mario Camara Neto.
 * ----------------------------------------------------------------------------
 */
-
-Projetinho para jogo da velha para aperfeçoamento da linguagem C++ e alguns novos conceitos de ED.
